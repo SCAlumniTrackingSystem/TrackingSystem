@@ -1,0 +1,71 @@
+<?php 
+/*.notif ul{
+  list-style: none;
+  font-size: 1rem;
+}
+.notif a{
+  font-size: 1.5rem;
+}
+.row ul li .dropdown-check{
+  display: none;
+}
+.row > ul > li{
+  position: relative;
+  display: inline-block;
+ 
+}
+
+.notif > ul > li > a .count{
+  position: absolute; 
+right: 30px; 
+top: 15px; 
+background-color: #fff; 
+color: #0066ff; 
+width: 12px; 
+height: 12px; 
+border-radius: 50%; 
+font-size: 0.8rem; 
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+
+
+.notif > ul > li > a{
+  color: white; 
+  display: inline-block;
+  cursor: pointer;
+ 
+}
+.row  ul li .dropdowns{
+  position: absolute;
+  top: 100%;
+  background-color:white ;
+  right: 5px;
+  margin-right: 0;
+  border: 2px solid black;
+  padding: 1rem;
+  visibility: hidden;
+  opacity: 0;
+  transition: 0.3s;
+
+}
+.row ul li .dropdowns li{
+  margin-bottom: 1rem ;
+  border-bottom: 1px solid black;
+  padding-bottom: 1rem;
+}
+ ul > li:hover > .dropdown-check:checked ~ .dropdowns{
+  visibility: visible;
+  opacity: 1;
+}
+.row ul li .dropdowns li:last-child{
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: 0;
+}*/
+?>
+
+
